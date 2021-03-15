@@ -1,0 +1,961 @@
+Sample,Gate,X Parameter,X Median
+neg,cells,FSC-A,663561
+neg,All Events,FSC-A,1048575
+neg,singlets,FSC-A,661899
+neg,All Events,FSC-A,1048575
+neg,cells,FSC-A,663561
+neg,All Events,PHO5pr-mCherry-A,73
+neg,singlets,PHO5pr-mCherry-A,30
+neg,All Events,FSC-A,1048575
+neg,All Events,FSC-A,1048575
+neg,All Events,chimera-GFP-A,1496
+neg,singlets,chimera-GFP-A,909
+neg,All Events,chimera-GFP-H,1256
+parent 1,cells,FSC-A,654792
+parent 1,All Events,FSC-A,993023
+parent 1,singlets,FSC-A,651605
+parent 1,All Events,FSC-A,993023
+parent 1,cells,FSC-A,654792
+parent 1,All Events,PHO5pr-mCherry-A,1475
+parent 1,singlets,PHO5pr-mCherry-A,866
+parent 1,All Events,FSC-A,993023
+parent 1,All Events,FSC-A,993023
+parent 1,All Events,chimera-GFP-A,1576
+parent 1,singlets,chimera-GFP-A,950
+parent 1,All Events,chimera-GFP-H,1327
+parent 2,cells,FSC-A,669258
+parent 2,All Events,FSC-A,1048575
+parent 2,singlets,FSC-A,664981
+parent 2,All Events,FSC-A,1048575
+parent 2,cells,FSC-A,669258
+parent 2,All Events,PHO5pr-mCherry-A,2002
+parent 2,singlets,PHO5pr-mCherry-A,1127
+parent 2,All Events,FSC-A,1048575
+parent 2,All Events,FSC-A,1048575
+parent 2,All Events,chimera-GFP-A,1501
+parent 2,singlets,chimera-GFP-A,867
+parent 2,All Events,chimera-GFP-H,1250
+1,cells,FSC-A,670521
+1,All Events,FSC-A,1021535
+1,singlets,FSC-A,668574
+1,All Events,FSC-A,1021535
+1,cells,FSC-A,670521
+1,All Events,PHO5pr-mCherry-A,46869
+1,singlets,PHO5pr-mCherry-A,35124
+1,All Events,FSC-A,1021535
+1,All Events,FSC-A,1021535
+1,All Events,chimera-GFP-A,2714
+1,singlets,chimera-GFP-A,1921
+1,All Events,chimera-GFP-H,2330
+2,cells,FSC-A,697268
+2,All Events,FSC-A,1048575
+2,singlets,FSC-A,694650
+2,All Events,FSC-A,1048575
+2,cells,FSC-A,697268
+2,All Events,PHO5pr-mCherry-A,44844
+2,singlets,PHO5pr-mCherry-A,32979
+2,All Events,FSC-A,1048575
+2,All Events,FSC-A,1048575
+2,All Events,chimera-GFP-A,2716
+2,singlets,chimera-GFP-A,1915
+2,All Events,chimera-GFP-H,2312
+3,cells,FSC-A,706291
+3,All Events,FSC-A,1048575
+3,singlets,FSC-A,703596
+3,All Events,FSC-A,1048575
+3,cells,FSC-A,706291
+3,All Events,PHO5pr-mCherry-A,43177
+3,singlets,PHO5pr-mCherry-A,28582
+3,All Events,FSC-A,1048575
+3,All Events,FSC-A,1048575
+3,All Events,chimera-GFP-A,2815
+3,singlets,chimera-GFP-A,1799
+3,All Events,chimera-GFP-H,2339
+4,cells,FSC-A,572515
+4,All Events,FSC-A,850093
+4,singlets,FSC-A,570202
+4,All Events,FSC-A,850093
+4,cells,FSC-A,572515
+4,All Events,PHO5pr-mCherry-A,5979
+4,singlets,PHO5pr-mCherry-A,3610
+4,All Events,FSC-A,850093
+4,All Events,FSC-A,850093
+4,All Events,chimera-GFP-A,3337
+4,singlets,chimera-GFP-A,2048
+4,All Events,chimera-GFP-H,2964
+5,cells,FSC-A,582362
+5,All Events,FSC-A,858453
+5,singlets,FSC-A,580223
+5,All Events,FSC-A,858453
+5,cells,FSC-A,582362
+5,All Events,PHO5pr-mCherry-A,5622
+5,singlets,PHO5pr-mCherry-A,3374
+5,All Events,FSC-A,858453
+5,All Events,FSC-A,858453
+5,All Events,chimera-GFP-A,3308
+5,singlets,chimera-GFP-A,2048
+5,All Events,chimera-GFP-H,2927
+6,cells,FSC-A,583432
+6,All Events,FSC-A,774018
+6,singlets,FSC-A,579740
+6,All Events,FSC-A,774018
+6,cells,FSC-A,583432
+6,All Events,PHO5pr-mCherry-A,6318
+6,singlets,PHO5pr-mCherry-A,4260
+6,All Events,FSC-A,774018
+6,All Events,FSC-A,774018
+6,All Events,chimera-GFP-A,3301
+6,singlets,chimera-GFP-A,2296
+6,All Events,chimera-GFP-H,2993
+7,cells,FSC-A,620095
+7,All Events,FSC-A,862897
+7,singlets,FSC-A,618275
+7,All Events,FSC-A,862897
+7,cells,FSC-A,620095
+7,All Events,PHO5pr-mCherry-A,52208
+7,singlets,PHO5pr-mCherry-A,43510
+7,All Events,FSC-A,862897
+7,All Events,FSC-A,862897
+7,All Events,chimera-GFP-A,3935
+7,singlets,chimera-GFP-A,3134
+7,All Events,chimera-GFP-H,3430
+8,cells,FSC-A,613118
+8,All Events,FSC-A,969539
+8,singlets,FSC-A,612329
+8,All Events,FSC-A,969539
+8,cells,FSC-A,613118
+8,All Events,PHO5pr-mCherry-A,67633
+8,singlets,PHO5pr-mCherry-A,51203
+8,All Events,FSC-A,969539
+8,All Events,FSC-A,969539
+8,All Events,chimera-GFP-A,4521
+8,singlets,chimera-GFP-A,3247
+8,All Events,chimera-GFP-H,3892
+9,cells,FSC-A,620882
+9,All Events,FSC-A,779626
+9,singlets,FSC-A,619457
+9,All Events,FSC-A,779626
+9,cells,FSC-A,620882
+9,All Events,PHO5pr-mCherry-A,48682
+9,singlets,PHO5pr-mCherry-A,42993
+9,All Events,FSC-A,779626
+9,All Events,FSC-A,779626
+9,All Events,chimera-GFP-A,3592
+9,singlets,chimera-GFP-A,3025
+9,All Events,chimera-GFP-H,3202
+10,cells,FSC-A,561973
+10,All Events,FSC-A,726523
+10,singlets,FSC-A,559832
+10,All Events,FSC-A,726523
+10,cells,FSC-A,561973
+10,All Events,PHO5pr-mCherry-A,8767
+10,singlets,PHO5pr-mCherry-A,6354
+10,All Events,FSC-A,726523
+10,All Events,FSC-A,726523
+10,All Events,chimera-GFP-A,9635
+10,singlets,chimera-GFP-A,6979
+10,All Events,chimera-GFP-H,8597
+11,cells,FSC-A,538822
+11,All Events,FSC-A,705542
+11,singlets,FSC-A,536440
+11,All Events,FSC-A,705542
+11,cells,FSC-A,538822
+11,All Events,PHO5pr-mCherry-A,6846
+11,singlets,PHO5pr-mCherry-A,4881
+11,All Events,FSC-A,705542
+11,All Events,FSC-A,705542
+11,All Events,chimera-GFP-A,6733
+11,singlets,chimera-GFP-A,4664
+11,All Events,chimera-GFP-H,6068
+12,cells,FSC-A,572827
+12,All Events,FSC-A,872257
+12,singlets,FSC-A,570185
+12,All Events,FSC-A,872257
+12,cells,FSC-A,572827
+12,All Events,PHO5pr-mCherry-A,9730
+12,singlets,PHO5pr-mCherry-A,5983
+12,All Events,FSC-A,872257
+12,All Events,FSC-A,872257
+12,All Events,chimera-GFP-A,8592
+12,singlets,chimera-GFP-A,5340
+12,All Events,chimera-GFP-H,7514
+13,cells,FSC-A,662876
+13,All Events,FSC-A,1023341
+13,singlets,FSC-A,660288
+13,All Events,FSC-A,1023341
+13,cells,FSC-A,662876
+13,All Events,PHO5pr-mCherry-A,24653
+13,singlets,PHO5pr-mCherry-A,15999
+13,All Events,FSC-A,1023341
+13,All Events,FSC-A,1023341
+13,All Events,chimera-GFP-A,2163
+13,singlets,chimera-GFP-A,1379
+13,All Events,chimera-GFP-H,1820
+14,cells,FSC-A,657203
+14,All Events,FSC-A,1031298
+14,singlets,FSC-A,654684
+14,All Events,FSC-A,1031298
+14,cells,FSC-A,657203
+14,All Events,PHO5pr-mCherry-A,24577
+14,singlets,PHO5pr-mCherry-A,15452
+14,All Events,FSC-A,1031298
+14,All Events,FSC-A,1031298
+14,All Events,chimera-GFP-A,2154
+14,singlets,chimera-GFP-A,1321
+14,All Events,chimera-GFP-H,1816
+15,cells,FSC-A,661666
+15,All Events,FSC-A,999127
+15,singlets,FSC-A,659783
+15,All Events,FSC-A,999127
+15,cells,FSC-A,661666
+15,All Events,PHO5pr-mCherry-A,23068
+15,singlets,PHO5pr-mCherry-A,14999
+15,All Events,FSC-A,999127
+15,All Events,FSC-A,999127
+15,All Events,chimera-GFP-A,2084
+15,singlets,chimera-GFP-A,1340
+15,All Events,chimera-GFP-H,1759
+16,cells,FSC-A,639279
+16,All Events,FSC-A,1048575
+16,singlets,FSC-A,635996
+16,All Events,FSC-A,1048575
+16,cells,FSC-A,639279
+16,All Events,PHO5pr-mCherry-A,24586
+16,singlets,PHO5pr-mCherry-A,14316
+16,All Events,FSC-A,1048575
+16,All Events,FSC-A,1048575
+16,All Events,chimera-GFP-A,2282
+16,singlets,chimera-GFP-A,1301
+16,All Events,chimera-GFP-H,1909
+17,cells,FSC-A,648890
+17,All Events,FSC-A,1020274
+17,singlets,FSC-A,646535
+17,All Events,FSC-A,1020274
+17,cells,FSC-A,648890
+17,All Events,PHO5pr-mCherry-A,22612
+17,singlets,PHO5pr-mCherry-A,14111
+17,All Events,FSC-A,1020274
+17,All Events,FSC-A,1020274
+17,All Events,chimera-GFP-A,2242
+17,singlets,chimera-GFP-A,1352
+17,All Events,chimera-GFP-H,1898
+18,cells,FSC-A,711577
+18,All Events,FSC-A,1048575
+18,singlets,FSC-A,709099
+18,All Events,FSC-A,1048575
+18,cells,FSC-A,711577
+18,All Events,PHO5pr-mCherry-A,21651
+18,singlets,PHO5pr-mCherry-A,13482
+18,All Events,FSC-A,1048575
+18,All Events,FSC-A,1048575
+18,All Events,chimera-GFP-A,2292
+18,singlets,chimera-GFP-A,1389
+18,All Events,chimera-GFP-H,1911
+19,cells,FSC-A,703647
+19,All Events,FSC-A,1032502
+19,singlets,FSC-A,700682
+19,All Events,FSC-A,1032502
+19,cells,FSC-A,703647
+19,All Events,PHO5pr-mCherry-A,16519
+19,singlets,PHO5pr-mCherry-A,10847
+19,All Events,FSC-A,1032502
+19,All Events,FSC-A,1032502
+19,All Events,chimera-GFP-A,2037
+19,singlets,chimera-GFP-A,1343
+19,All Events,chimera-GFP-H,1722
+20,cells,FSC-A,712999
+20,All Events,FSC-A,1048575
+20,singlets,FSC-A,709717
+20,All Events,FSC-A,1048575
+20,cells,FSC-A,712999
+20,All Events,PHO5pr-mCherry-A,17027
+20,singlets,PHO5pr-mCherry-A,10400
+20,All Events,FSC-A,1048575
+20,All Events,FSC-A,1048575
+20,All Events,chimera-GFP-A,2192
+20,singlets,chimera-GFP-A,1353
+20,All Events,chimera-GFP-H,1827
+21,cells,FSC-A,745097
+21,All Events,FSC-A,1048575
+21,singlets,FSC-A,742071
+21,All Events,FSC-A,1048575
+21,cells,FSC-A,745097
+21,All Events,PHO5pr-mCherry-A,20007
+21,singlets,PHO5pr-mCherry-A,12245
+21,All Events,FSC-A,1048575
+21,All Events,FSC-A,1048575
+21,All Events,chimera-GFP-A,2299
+21,singlets,chimera-GFP-A,1400
+21,All Events,chimera-GFP-H,1910
+22,cells,FSC-A,619425
+22,All Events,FSC-A,853418
+22,singlets,FSC-A,616865
+22,All Events,FSC-A,853418
+22,cells,FSC-A,619425
+22,All Events,PHO5pr-mCherry-A,6388
+22,singlets,PHO5pr-mCherry-A,4025
+22,All Events,FSC-A,853418
+22,All Events,FSC-A,853418
+22,All Events,chimera-GFP-A,2430
+22,singlets,chimera-GFP-A,1610
+22,All Events,chimera-GFP-H,2115
+23,cells,FSC-A,649151
+23,All Events,FSC-A,877260
+23,singlets,FSC-A,646245
+23,All Events,FSC-A,877260
+23,cells,FSC-A,649151
+23,All Events,PHO5pr-mCherry-A,6113
+23,singlets,PHO5pr-mCherry-A,3998
+23,All Events,FSC-A,877260
+23,All Events,FSC-A,877260
+23,All Events,chimera-GFP-A,2428
+23,singlets,chimera-GFP-A,1672
+23,All Events,chimera-GFP-H,2158
+24,cells,FSC-A,608337
+24,All Events,FSC-A,848347
+24,singlets,FSC-A,606495
+24,All Events,FSC-A,848347
+24,cells,FSC-A,608337
+24,All Events,PHO5pr-mCherry-A,6850
+24,singlets,PHO5pr-mCherry-A,4279
+24,All Events,FSC-A,848347
+24,All Events,FSC-A,848347
+24,All Events,chimera-GFP-A,2537
+24,singlets,chimera-GFP-A,1672
+24,All Events,chimera-GFP-H,2235
+25,cells,FSC-A,624356
+25,All Events,FSC-A,844357
+25,singlets,FSC-A,622047
+25,All Events,FSC-A,844357
+25,cells,FSC-A,624356
+25,All Events,PHO5pr-mCherry-A,25321
+25,singlets,PHO5pr-mCherry-A,19638
+25,All Events,FSC-A,844357
+25,All Events,FSC-A,844357
+25,All Events,chimera-GFP-A,1854
+25,singlets,chimera-GFP-A,1410
+25,All Events,chimera-GFP-H,1659
+26,cells,FSC-A,655995
+26,All Events,FSC-A,915629
+26,singlets,FSC-A,654112
+26,All Events,FSC-A,915629
+26,cells,FSC-A,655995
+26,All Events,PHO5pr-mCherry-A,28863
+26,singlets,PHO5pr-mCherry-A,21855
+26,All Events,FSC-A,915629
+26,All Events,FSC-A,915629
+26,All Events,chimera-GFP-A,1973
+26,singlets,chimera-GFP-A,1447
+26,All Events,chimera-GFP-H,1732
+27,cells,FSC-A,653067
+27,All Events,FSC-A,941463
+27,singlets,FSC-A,650258
+27,All Events,FSC-A,941463
+27,cells,FSC-A,653067
+27,All Events,PHO5pr-mCherry-A,27322
+27,singlets,PHO5pr-mCherry-A,19714
+27,All Events,FSC-A,941463
+27,All Events,FSC-A,941463
+27,All Events,chimera-GFP-A,1903
+27,singlets,chimera-GFP-A,1349
+27,All Events,chimera-GFP-H,1650
+28,cells,FSC-A,645861
+28,All Events,FSC-A,846050
+28,singlets,FSC-A,643261
+28,All Events,FSC-A,846050
+28,cells,FSC-A,645861
+28,All Events,PHO5pr-mCherry-A,2497
+28,singlets,PHO5pr-mCherry-A,1812
+28,All Events,FSC-A,846050
+28,All Events,FSC-A,846050
+28,All Events,chimera-GFP-A,2202
+28,singlets,chimera-GFP-A,1606
+28,All Events,chimera-GFP-H,1930
+29,cells,FSC-A,628513
+29,All Events,FSC-A,917478
+29,singlets,FSC-A,626129
+29,All Events,FSC-A,917478
+29,cells,FSC-A,628513
+29,All Events,PHO5pr-mCherry-A,5010
+29,singlets,PHO5pr-mCherry-A,3270
+29,All Events,FSC-A,917478
+29,All Events,FSC-A,917478
+29,All Events,chimera-GFP-A,3829
+29,singlets,chimera-GFP-A,2390
+29,All Events,chimera-GFP-H,3371
+30,cells,FSC-A,631151
+30,All Events,FSC-A,892488
+30,singlets,FSC-A,628634
+30,All Events,FSC-A,892488
+30,cells,FSC-A,631151
+30,All Events,PHO5pr-mCherry-A,3102
+30,singlets,PHO5pr-mCherry-A,2045
+30,All Events,FSC-A,892488
+30,All Events,FSC-A,892488
+30,All Events,chimera-GFP-A,2316
+30,singlets,chimera-GFP-A,1555
+30,All Events,chimera-GFP-H,2030
+31,cells,FSC-A,833222
+31,All Events,FSC-A,1048575
+31,singlets,FSC-A,819941
+31,All Events,FSC-A,1048575
+31,cells,FSC-A,833222
+31,All Events,PHO5pr-mCherry-A,75219
+31,singlets,PHO5pr-mCherry-A,10800
+31,All Events,FSC-A,1048575
+31,All Events,FSC-A,1048575
+31,All Events,chimera-GFP-A,4219
+31,singlets,chimera-GFP-A,2656
+31,All Events,chimera-GFP-H,3400
+32,cells,FSC-A,881263
+32,All Events,FSC-A,1048575
+32,singlets,FSC-A,870730
+32,All Events,FSC-A,1048575
+32,cells,FSC-A,881263
+32,All Events,PHO5pr-mCherry-A,106430
+32,singlets,PHO5pr-mCherry-A,66058
+32,All Events,FSC-A,1048575
+32,All Events,FSC-A,1048575
+32,All Events,chimera-GFP-A,4770
+32,singlets,chimera-GFP-A,2764
+32,All Events,chimera-GFP-H,3670
+33,cells,FSC-A,772398
+33,All Events,FSC-A,68410
+33,singlets,FSC-A,772398
+33,All Events,FSC-A,68410
+33,cells,FSC-A,772398
+33,All Events,PHO5pr-mCherry-A,162
+33,singlets,PHO5pr-mCherry-A,25674
+33,All Events,FSC-A,68410
+33,All Events,FSC-A,68410
+33,All Events,chimera-GFP-A,358
+33,singlets,chimera-GFP-A,4237
+33,All Events,chimera-GFP-H,336
+34,cells,FSC-A,608015
+34,All Events,FSC-A,903078
+34,singlets,FSC-A,604829
+34,All Events,FSC-A,903078
+34,cells,FSC-A,608015
+34,All Events,PHO5pr-mCherry-A,14574
+34,singlets,PHO5pr-mCherry-A,9823
+34,All Events,FSC-A,903078
+34,All Events,FSC-A,903078
+34,All Events,chimera-GFP-A,5092
+34,singlets,chimera-GFP-A,3460
+34,All Events,chimera-GFP-H,4353
+35,cells,FSC-A,618911
+35,All Events,FSC-A,927444
+35,singlets,FSC-A,616633
+35,All Events,FSC-A,927444
+35,cells,FSC-A,618911
+35,All Events,PHO5pr-mCherry-A,14874
+35,singlets,PHO5pr-mCherry-A,9526
+35,All Events,FSC-A,927444
+35,All Events,FSC-A,927444
+35,All Events,chimera-GFP-A,5233
+35,singlets,chimera-GFP-A,3471
+35,All Events,chimera-GFP-H,4463
+36,cells,FSC-A,617574
+36,All Events,FSC-A,950364
+36,singlets,FSC-A,614229
+36,All Events,FSC-A,950364
+36,cells,FSC-A,617574
+36,All Events,PHO5pr-mCherry-A,15784
+36,singlets,PHO5pr-mCherry-A,9888
+36,All Events,FSC-A,950364
+36,All Events,FSC-A,950364
+36,All Events,chimera-GFP-A,5380
+36,singlets,chimera-GFP-A,3458
+36,All Events,chimera-GFP-H,4575
+Parent-yH295,cells,FSC-A,588350
+Parent-yH295,All Events,FSC-A,869583
+Parent-yH295,singlets,FSC-A,587153
+Parent-yH295,All Events,FSC-A,869583
+Parent-yH295,cells,FSC-A,588350
+Parent-yH295,All Events,PHO5pr-mCherry-A,1471
+Parent-yH295,singlets,PHO5pr-mCherry-A,946
+Parent-yH295,All Events,FSC-A,869583
+Parent-yH295,All Events,FSC-A,869583
+Parent-yH295,All Events,chimera-GFP-A,1554
+Parent-yH295,singlets,chimera-GFP-A,1032
+Parent-yH295,All Events,chimera-GFP-H,1332
+Parent-yH296,cells,FSC-A,646449
+Parent-yH296,All Events,FSC-A,904319
+Parent-yH296,singlets,FSC-A,644118
+Parent-yH296,All Events,FSC-A,904319
+Parent-yH296,cells,FSC-A,646449
+Parent-yH296,All Events,PHO5pr-mCherry-A,1082
+Parent-yH296,singlets,PHO5pr-mCherry-A,700
+Parent-yH296,All Events,FSC-A,904319
+Parent-yH296,All Events,FSC-A,904319
+Parent-yH296,All Events,chimera-GFP-A,1440
+Parent-yH296,singlets,chimera-GFP-A,972
+Parent-yH296,All Events,chimera-GFP-H,1214
+A3-1-yH295-pH179,cells,FSC-A,543010
+A3-1-yH295-pH179,All Events,FSC-A,864334
+A3-1-yH295-pH179,singlets,FSC-A,539058
+A3-1-yH295-pH179,All Events,FSC-A,864334
+A3-1-yH295-pH179,cells,FSC-A,543010
+A3-1-yH295-pH179,All Events,PHO5pr-mCherry-A,14438
+A3-1-yH295-pH179,singlets,PHO5pr-mCherry-A,9032
+A3-1-yH295-pH179,All Events,FSC-A,864334
+A3-1-yH295-pH179,All Events,FSC-A,864334
+A3-1-yH295-pH179,All Events,chimera-GFP-A,6296
+A3-1-yH295-pH179,singlets,chimera-GFP-A,3906
+A3-1-yH295-pH179,All Events,chimera-GFP-H,5259
+A3-2,cells,FSC-A,512858
+A3-2,All Events,FSC-A,871292
+A3-2,singlets,FSC-A,509161
+A3-2,All Events,FSC-A,871292
+A3-2,cells,FSC-A,512858
+A3-2,All Events,PHO5pr-mCherry-A,11379
+A3-2,singlets,PHO5pr-mCherry-A,6183
+A3-2,All Events,FSC-A,871292
+A3-2,All Events,FSC-A,871292
+A3-2,All Events,chimera-GFP-A,5601
+A3-2,singlets,chimera-GFP-A,3169
+A3-2,All Events,chimera-GFP-H,4658
+A3-3,cells,FSC-A,715954
+A3-3,All Events,FSC-A,1048575
+A3-3,singlets,FSC-A,711239
+A3-3,All Events,FSC-A,1048575
+A3-3,cells,FSC-A,715954
+A3-3,All Events,PHO5pr-mCherry-A,12567
+A3-3,singlets,PHO5pr-mCherry-A,6449
+A3-3,All Events,FSC-A,1048575
+A3-3,All Events,FSC-A,1048575
+A3-3,All Events,chimera-GFP-A,7574
+A3-3,singlets,chimera-GFP-A,3805
+A3-3,All Events,chimera-GFP-H,5906
+A20-1-yH295-pH177,cells,FSC-A,515376
+A20-1-yH295-pH177,All Events,FSC-A,832537
+A20-1-yH295-pH177,singlets,FSC-A,511736
+A20-1-yH295-pH177,All Events,FSC-A,832537
+A20-1-yH295-pH177,cells,FSC-A,515376
+A20-1-yH295-pH177,All Events,PHO5pr-mCherry-A,10445
+A20-1-yH295-pH177,singlets,PHO5pr-mCherry-A,6034
+A20-1-yH295-pH177,All Events,FSC-A,832537
+A20-1-yH295-pH177,All Events,FSC-A,832537
+A20-1-yH295-pH177,All Events,chimera-GFP-A,11066
+A20-1-yH295-pH177,singlets,chimera-GFP-A,6735
+A20-1-yH295-pH177,All Events,chimera-GFP-H,9415
+A20-2,cells,FSC-A,545232
+A20-2,All Events,FSC-A,809005
+A20-2,singlets,FSC-A,540082
+A20-2,All Events,FSC-A,809005
+A20-2,cells,FSC-A,545232
+A20-2,All Events,PHO5pr-mCherry-A,8384
+A20-2,singlets,PHO5pr-mCherry-A,5402
+A20-2,All Events,FSC-A,809005
+A20-2,All Events,FSC-A,809005
+A20-2,All Events,chimera-GFP-A,10615
+A20-2,singlets,chimera-GFP-A,6854
+A20-2,All Events,chimera-GFP-H,9023
+A20-3,cells,FSC-A,503360
+A20-3,All Events,FSC-A,767194
+A20-3,singlets,FSC-A,499691
+A20-3,All Events,FSC-A,767194
+A20-3,cells,FSC-A,503360
+A20-3,All Events,PHO5pr-mCherry-A,10191
+A20-3,singlets,PHO5pr-mCherry-A,6431
+A20-3,All Events,FSC-A,767194
+A20-3,All Events,FSC-A,767194
+A20-3,All Events,chimera-GFP-A,9534
+A20-3,singlets,chimera-GFP-A,6249
+A20-3,All Events,chimera-GFP-H,8291
+A4-1-yH295-pH180,cells,FSC-A,510043
+A4-1-yH295-pH180,All Events,FSC-A,785949
+A4-1-yH295-pH180,singlets,FSC-A,506377
+A4-1-yH295-pH180,All Events,FSC-A,785949
+A4-1-yH295-pH180,cells,FSC-A,510043
+A4-1-yH295-pH180,All Events,PHO5pr-mCherry-A,8775
+A4-1-yH295-pH180,singlets,PHO5pr-mCherry-A,5396
+A4-1-yH295-pH180,All Events,FSC-A,785949
+A4-1-yH295-pH180,All Events,FSC-A,785949
+A4-1-yH295-pH180,All Events,chimera-GFP-A,5022
+A4-1-yH295-pH180,singlets,chimera-GFP-A,3171
+A4-1-yH295-pH180,All Events,chimera-GFP-H,4340
+A4-2,cells,FSC-A,529052
+A4-2,All Events,FSC-A,888973
+A4-2,singlets,FSC-A,524417
+A4-2,All Events,FSC-A,888973
+A4-2,cells,FSC-A,529052
+A4-2,All Events,PHO5pr-mCherry-A,8406
+A4-2,singlets,PHO5pr-mCherry-A,4538
+A4-2,All Events,FSC-A,888973
+A4-2,All Events,FSC-A,888973
+A4-2,All Events,chimera-GFP-A,4791
+A4-2,singlets,chimera-GFP-A,2677
+A4-2,All Events,chimera-GFP-H,4021
+A4-3,cells,FSC-A,538533
+A4-3,All Events,FSC-A,904351
+A4-3,singlets,FSC-A,534305
+A4-3,All Events,FSC-A,904351
+A4-3,cells,FSC-A,538533
+A4-3,All Events,PHO5pr-mCherry-A,7930
+A4-3,singlets,PHO5pr-mCherry-A,4319
+A4-3,All Events,FSC-A,904351
+A4-3,All Events,FSC-A,904351
+A4-3,All Events,chimera-GFP-A,5119
+A4-3,singlets,chimera-GFP-A,2881
+A4-3,All Events,chimera-GFP-H,4277
+A17-1-yH295-pH193,cells,FSC-A,498816
+A17-1-yH295-pH193,All Events,FSC-A,844179
+A17-1-yH295-pH193,singlets,FSC-A,489507
+A17-1-yH295-pH193,All Events,FSC-A,844179
+A17-1-yH295-pH193,cells,FSC-A,498816
+A17-1-yH295-pH193,All Events,PHO5pr-mCherry-A,10287
+A17-1-yH295-pH193,singlets,PHO5pr-mCherry-A,5479
+A17-1-yH295-pH193,All Events,FSC-A,844179
+A17-1-yH295-pH193,All Events,FSC-A,844179
+A17-1-yH295-pH193,All Events,chimera-GFP-A,4703
+A17-1-yH295-pH193,singlets,chimera-GFP-A,2671
+A17-1-yH295-pH193,All Events,chimera-GFP-H,3938
+A17-2,cells,FSC-A,493252
+A17-2,All Events,FSC-A,735724
+A17-2,singlets,FSC-A,487965
+A17-2,All Events,FSC-A,735724
+A17-2,cells,FSC-A,493252
+A17-2,All Events,PHO5pr-mCherry-A,8225
+A17-2,singlets,PHO5pr-mCherry-A,5145
+A17-2,All Events,FSC-A,735724
+A17-2,All Events,FSC-A,735724
+A17-2,All Events,chimera-GFP-A,3815
+A17-2,singlets,chimera-GFP-A,2467
+A17-2,All Events,chimera-GFP-H,3352
+A17-3,cells,FSC-A,535757
+A17-3,All Events,FSC-A,788615
+A17-3,singlets,FSC-A,532586
+A17-3,All Events,FSC-A,788615
+A17-3,cells,FSC-A,535757
+A17-3,All Events,PHO5pr-mCherry-A,7493
+A17-3,singlets,PHO5pr-mCherry-A,4812
+A17-3,All Events,FSC-A,788615
+A17-3,All Events,FSC-A,788615
+A17-3,All Events,chimera-GFP-A,3371
+A17-3,singlets,chimera-GFP-A,2162
+A17-3,All Events,chimera-GFP-H,2990
+A18-1-yH295-pH194,cells,FSC-A,631583
+A18-1-yH295-pH194,All Events,FSC-A,1016366
+A18-1-yH295-pH194,singlets,FSC-A,627298
+A18-1-yH295-pH194,All Events,FSC-A,1016366
+A18-1-yH295-pH194,cells,FSC-A,631583
+A18-1-yH295-pH194,All Events,PHO5pr-mCherry-A,3005
+A18-1-yH295-pH194,singlets,PHO5pr-mCherry-A,1656
+A18-1-yH295-pH194,All Events,FSC-A,1016366
+A18-1-yH295-pH194,All Events,FSC-A,1016366
+A18-1-yH295-pH194,All Events,chimera-GFP-A,2643
+A18-1-yH295-pH194,singlets,chimera-GFP-A,1507
+A18-1-yH295-pH194,All Events,chimera-GFP-H,2154
+A18-2,cells,FSC-A,565590
+A18-2,All Events,FSC-A,817073
+A18-2,singlets,FSC-A,561158
+A18-2,All Events,FSC-A,817073
+A18-2,cells,FSC-A,565590
+A18-2,All Events,PHO5pr-mCherry-A,2717
+A18-2,singlets,PHO5pr-mCherry-A,1707
+A18-2,All Events,FSC-A,817073
+A18-2,All Events,FSC-A,817073
+A18-2,All Events,chimera-GFP-A,2282
+A18-2,singlets,chimera-GFP-A,1482
+A18-2,All Events,chimera-GFP-H,1947
+A18-3,cells,FSC-A,567371
+A18-3,All Events,FSC-A,926570
+A18-3,singlets,FSC-A,562945
+A18-3,All Events,FSC-A,926570
+A18-3,cells,FSC-A,567371
+A18-3,All Events,PHO5pr-mCherry-A,3410
+A18-3,singlets,PHO5pr-mCherry-A,1800
+A18-3,All Events,FSC-A,926570
+A18-3,All Events,FSC-A,926570
+A18-3,All Events,chimera-GFP-A,2724
+A18-3,singlets,chimera-GFP-A,1530
+A18-3,All Events,chimera-GFP-H,2237
+A12-1-yH295-pH188,cells,FSC-A,570860
+A12-1-yH295-pH188,All Events,FSC-A,968382
+A12-1-yH295-pH188,singlets,FSC-A,567598
+A12-1-yH295-pH188,All Events,FSC-A,968382
+A12-1-yH295-pH188,cells,FSC-A,570860
+A12-1-yH295-pH188,All Events,PHO5pr-mCherry-A,19612
+A12-1-yH295-pH188,singlets,PHO5pr-mCherry-A,11478
+A12-1-yH295-pH188,All Events,FSC-A,968382
+A12-1-yH295-pH188,All Events,FSC-A,968382
+A12-1-yH295-pH188,All Events,chimera-GFP-A,2343
+A12-1-yH295-pH188,singlets,chimera-GFP-A,1310
+A12-1-yH295-pH188,All Events,chimera-GFP-H,1933
+A12-2,cells,FSC-A,565950
+A12-2,All Events,FSC-A,978233
+A12-2,singlets,FSC-A,562387
+A12-2,All Events,FSC-A,978233
+A12-2,cells,FSC-A,565950
+A12-2,All Events,PHO5pr-mCherry-A,20128
+A12-2,singlets,PHO5pr-mCherry-A,11366
+A12-2,All Events,FSC-A,978233
+A12-2,All Events,FSC-A,978233
+A12-2,All Events,chimera-GFP-A,2433
+A12-2,singlets,chimera-GFP-A,1333
+A12-2,All Events,chimera-GFP-H,2007
+A12-3,cells,FSC-A,575844
+A12-3,All Events,FSC-A,967778
+A12-3,singlets,FSC-A,572735
+A12-3,All Events,FSC-A,967778
+A12-3,cells,FSC-A,575844
+A12-3,All Events,PHO5pr-mCherry-A,20098
+A12-3,singlets,PHO5pr-mCherry-A,11839
+A12-3,All Events,FSC-A,967778
+A12-3,All Events,FSC-A,967778
+A12-3,All Events,chimera-GFP-A,2359
+A12-3,singlets,chimera-GFP-A,1318
+A12-3,All Events,chimera-GFP-H,1953
+pos,cells,FSC-A,621681
+pos,All Events,FSC-A,966423
+pos,singlets,FSC-A,617925
+pos,All Events,FSC-A,966423
+pos,cells,FSC-A,621681
+pos,All Events,PHO5pr-mCherry-A,16077
+pos,singlets,PHO5pr-mCherry-A,10541
+pos,All Events,FSC-A,966423
+pos,All Events,FSC-A,966423
+pos,All Events,chimera-GFP-A,2762
+pos,singlets,chimera-GFP-A,1772
+pos,All Events,chimera-GFP-H,2351
+B3-1-yH296-pH179,cells,FSC-A,601198
+B3-1-yH296-pH179,All Events,FSC-A,79160
+B3-1-yH296-pH179,singlets,FSC-A,598446
+B3-1-yH296-pH179,All Events,FSC-A,79160
+B3-1-yH296-pH179,cells,FSC-A,601198
+B3-1-yH296-pH179,All Events,PHO5pr-mCherry-A,200
+B3-1-yH296-pH179,singlets,PHO5pr-mCherry-A,12466
+B3-1-yH296-pH179,All Events,FSC-A,79160
+B3-1-yH296-pH179,All Events,FSC-A,79160
+B3-1-yH296-pH179,All Events,chimera-GFP-A,436
+B3-1-yH296-pH179,singlets,chimera-GFP-A,1347
+B3-1-yH296-pH179,All Events,chimera-GFP-H,403
+B3-2,cells,FSC-A,873052
+B3-2,All Events,FSC-A,1048575
+B3-2,singlets,FSC-A,862088
+B3-2,All Events,FSC-A,1048575
+B3-2,cells,FSC-A,873052
+B3-2,All Events,PHO5pr-mCherry-A,45644
+B3-2,singlets,PHO5pr-mCherry-A,30265
+B3-2,All Events,FSC-A,1048575
+B3-2,All Events,FSC-A,1048575
+B3-2,All Events,chimera-GFP-A,4355
+B3-2,singlets,chimera-GFP-A,2752
+B3-2,All Events,chimera-GFP-H,3428
+B3-3,cells,FSC-A,849478
+B3-3,All Events,FSC-A,49026
+B3-3,singlets,FSC-A,841193
+B3-3,All Events,FSC-A,49026
+B3-3,cells,FSC-A,849478
+B3-3,All Events,PHO5pr-mCherry-A,114
+B3-3,singlets,PHO5pr-mCherry-A,28031
+B3-3,All Events,FSC-A,49026
+B3-3,All Events,FSC-A,49026
+B3-3,All Events,chimera-GFP-A,254
+B3-3,singlets,chimera-GFP-A,2615
+B3-3,All Events,chimera-GFP-H,261
+B20-1-yH296-pH177,cells,FSC-A,644741
+B20-1-yH296-pH177,All Events,FSC-A,1048575
+B20-1-yH296-pH177,singlets,FSC-A,641467
+B20-1-yH296-pH177,All Events,FSC-A,1048575
+B20-1-yH296-pH177,cells,FSC-A,644741
+B20-1-yH296-pH177,All Events,PHO5pr-mCherry-A,33552
+B20-1-yH296-pH177,singlets,PHO5pr-mCherry-A,24254
+B20-1-yH296-pH177,All Events,FSC-A,1048575
+B20-1-yH296-pH177,All Events,FSC-A,1048575
+B20-1-yH296-pH177,All Events,chimera-GFP-A,3940
+B20-1-yH296-pH177,singlets,chimera-GFP-A,2882
+B20-1-yH296-pH177,All Events,chimera-GFP-H,3307
+B20-2,cells,FSC-A,608918
+B20-2,All Events,FSC-A,908382
+B20-2,singlets,FSC-A,606613
+B20-2,All Events,FSC-A,908382
+B20-2,cells,FSC-A,608918
+B20-2,All Events,PHO5pr-mCherry-A,33067
+B20-2,singlets,PHO5pr-mCherry-A,25587
+B20-2,All Events,FSC-A,908382
+B20-2,All Events,FSC-A,908382
+B20-2,All Events,chimera-GFP-A,4059
+B20-2,singlets,chimera-GFP-A,3105
+B20-2,All Events,chimera-GFP-H,3491
+B20-3,cells,FSC-A,634602
+B20-3,All Events,FSC-A,1048575
+B20-3,singlets,FSC-A,630124
+B20-3,All Events,FSC-A,1048575
+B20-3,cells,FSC-A,634602
+B20-3,All Events,PHO5pr-mCherry-A,34811
+B20-3,singlets,PHO5pr-mCherry-A,24497
+B20-3,All Events,FSC-A,1048575
+B20-3,All Events,FSC-A,1048575
+B20-3,All Events,chimera-GFP-A,4424
+B20-3,singlets,chimera-GFP-A,3196
+B20-3,All Events,chimera-GFP-H,3688
+B4-1-yH296-pH180,cells,FSC-A,903030
+B4-1-yH296-pH180,All Events,FSC-A,1048575
+B4-1-yH296-pH180,singlets,FSC-A,889297
+B4-1-yH296-pH180,All Events,FSC-A,1048575
+B4-1-yH296-pH180,cells,FSC-A,903030
+B4-1-yH296-pH180,All Events,PHO5pr-mCherry-A,37761
+B4-1-yH296-pH180,singlets,PHO5pr-mCherry-A,24224
+B4-1-yH296-pH180,All Events,FSC-A,1048575
+B4-1-yH296-pH180,All Events,FSC-A,1048575
+B4-1-yH296-pH180,All Events,chimera-GFP-A,3148
+B4-1-yH296-pH180,singlets,chimera-GFP-A,1840
+B4-1-yH296-pH180,All Events,chimera-GFP-H,2482
+B4-2,cells,FSC-A,667226
+B4-2,All Events,FSC-A,1007500
+B4-2,singlets,FSC-A,664578
+B4-2,All Events,FSC-A,1007500
+B4-2,cells,FSC-A,667226
+B4-2,All Events,PHO5pr-mCherry-A,30409
+B4-2,singlets,PHO5pr-mCherry-A,21758
+B4-2,All Events,FSC-A,1007500
+B4-2,All Events,FSC-A,1007500
+B4-2,All Events,chimera-GFP-A,2549
+B4-2,singlets,chimera-GFP-A,1776
+B4-2,All Events,chimera-GFP-H,2167
+B4-3,cells,FSC-A,652261
+B4-3,All Events,FSC-A,940363
+B4-3,singlets,FSC-A,650353
+B4-3,All Events,FSC-A,940363
+B4-3,cells,FSC-A,652261
+B4-3,All Events,PHO5pr-mCherry-A,27318
+B4-3,singlets,PHO5pr-mCherry-A,20339
+B4-3,All Events,FSC-A,940363
+B4-3,All Events,FSC-A,940363
+B4-3,All Events,chimera-GFP-A,2389
+B4-3,singlets,chimera-GFP-A,1734
+B4-3,All Events,chimera-GFP-H,2057
+B17-1-yH296-pH193,cells,FSC-A,861126
+B17-1-yH296-pH193,All Events,FSC-A,1048575
+B17-1-yH296-pH193,singlets,FSC-A,849633
+B17-1-yH296-pH193,All Events,FSC-A,1048575
+B17-1-yH296-pH193,cells,FSC-A,861126
+B17-1-yH296-pH193,All Events,PHO5pr-mCherry-A,28006
+B17-1-yH296-pH193,singlets,PHO5pr-mCherry-A,17444
+B17-1-yH296-pH193,All Events,FSC-A,1048575
+B17-1-yH296-pH193,All Events,FSC-A,1048575
+B17-1-yH296-pH193,All Events,chimera-GFP-A,2880
+B17-1-yH296-pH193,singlets,chimera-GFP-A,1638
+B17-1-yH296-pH193,All Events,chimera-GFP-H,2253
+B17-2,cells,FSC-A,582871
+B17-2,All Events,FSC-A,792074
+B17-2,singlets,FSC-A,579265
+B17-2,All Events,FSC-A,792074
+B17-2,cells,FSC-A,582871
+B17-2,All Events,PHO5pr-mCherry-A,22738
+B17-2,singlets,PHO5pr-mCherry-A,17630
+B17-2,All Events,FSC-A,792074
+B17-2,All Events,FSC-A,792074
+B17-2,All Events,chimera-GFP-A,1907
+B17-2,singlets,chimera-GFP-A,1454
+B17-2,All Events,chimera-GFP-H,1692
+B17-3,cells,FSC-A,578158
+B17-3,All Events,FSC-A,771245
+B17-3,singlets,FSC-A,574826
+B17-3,All Events,FSC-A,771245
+B17-3,cells,FSC-A,578158
+B17-3,All Events,PHO5pr-mCherry-A,25702
+B17-3,singlets,PHO5pr-mCherry-A,20409
+B17-3,All Events,FSC-A,771245
+B17-3,All Events,FSC-A,771245
+B17-3,All Events,chimera-GFP-A,1862
+B17-3,singlets,chimera-GFP-A,1428
+B17-3,All Events,chimera-GFP-H,1664
+B18-1-yH296-pH194,cells,FSC-A,664761
+B18-1-yH296-pH194,All Events,FSC-A,889032
+B18-1-yH296-pH194,singlets,FSC-A,663546
+B18-1-yH296-pH194,All Events,FSC-A,889032
+B18-1-yH296-pH194,cells,FSC-A,664761
+B18-1-yH296-pH194,All Events,PHO5pr-mCherry-A,24065
+B18-1-yH296-pH194,singlets,PHO5pr-mCherry-A,18805
+B18-1-yH296-pH194,All Events,FSC-A,889032
+B18-1-yH296-pH194,All Events,FSC-A,889032
+B18-1-yH296-pH194,All Events,chimera-GFP-A,2005
+B18-1-yH296-pH194,singlets,chimera-GFP-A,1511
+B18-1-yH296-pH194,All Events,chimera-GFP-H,1762
+B18-2,cells,FSC-A,681237
+B18-2,All Events,FSC-A,935560
+B18-2,singlets,FSC-A,679579
+B18-2,All Events,FSC-A,935560
+B18-2,cells,FSC-A,681237
+B18-2,All Events,PHO5pr-mCherry-A,25695
+B18-2,singlets,PHO5pr-mCherry-A,19613
+B18-2,All Events,FSC-A,935560
+B18-2,All Events,FSC-A,935560
+B18-2,All Events,chimera-GFP-A,2185
+B18-2,singlets,chimera-GFP-A,1584
+B18-2,All Events,chimera-GFP-H,1884
+B18-3,cells,FSC-A,666885
+B18-3,All Events,FSC-A,925212
+B18-3,singlets,FSC-A,664954
+B18-3,All Events,FSC-A,925212
+B18-3,cells,FSC-A,666885
+B18-3,All Events,PHO5pr-mCherry-A,25102
+B18-3,singlets,PHO5pr-mCherry-A,19113
+B18-3,All Events,FSC-A,925212
+B18-3,All Events,FSC-A,925212
+B18-3,All Events,chimera-GFP-A,2141
+B18-3,singlets,chimera-GFP-A,1543
+B18-3,All Events,chimera-GFP-H,1849
+B12-1-yH296-pH188,cells,FSC-A,635856
+B12-1-yH296-pH188,All Events,FSC-A,896851
+B12-1-yH296-pH188,singlets,FSC-A,633829
+B12-1-yH296-pH188,All Events,FSC-A,896851
+B12-1-yH296-pH188,cells,FSC-A,635856
+B12-1-yH296-pH188,All Events,PHO5pr-mCherry-A,20968
+B12-1-yH296-pH188,singlets,PHO5pr-mCherry-A,15009
+B12-1-yH296-pH188,All Events,FSC-A,896851
+B12-1-yH296-pH188,All Events,FSC-A,896851
+B12-1-yH296-pH188,All Events,chimera-GFP-A,2030
+B12-1-yH296-pH188,singlets,chimera-GFP-A,1386
+B12-1-yH296-pH188,All Events,chimera-GFP-H,1753
+B12-2,cells,FSC-A,650204
+B12-2,All Events,FSC-A,896266
+B12-2,singlets,FSC-A,648911
+B12-2,All Events,FSC-A,896266
+B12-2,cells,FSC-A,650204
+B12-2,All Events,PHO5pr-mCherry-A,18400
+B12-2,singlets,PHO5pr-mCherry-A,13204
+B12-2,All Events,FSC-A,896266
+B12-2,All Events,FSC-A,896266
+B12-2,All Events,chimera-GFP-A,1999
+B12-2,singlets,chimera-GFP-A,1411
+B12-2,All Events,chimera-GFP-H,1727
+B12-3,cells,FSC-A,645782
+B12-3,All Events,FSC-A,893516
+B12-3,singlets,FSC-A,643050
+B12-3,All Events,FSC-A,893516
+B12-3,cells,FSC-A,645782
+B12-3,All Events,PHO5pr-mCherry-A,18450
+B12-3,singlets,PHO5pr-mCherry-A,12951
+B12-3,All Events,FSC-A,893516
+B12-3,All Events,FSC-A,893516
+B12-3,All Events,chimera-GFP-A,1989
+B12-3,singlets,chimera-GFP-A,1386
+B12-3,All Events,chimera-GFP-H,1698
+PC-Lindsey,cells,FSC-A,707469
+PC-Lindsey,All Events,FSC-A,1048575
+PC-Lindsey,singlets,FSC-A,705193
+PC-Lindsey,All Events,FSC-A,1048575
+PC-Lindsey,cells,FSC-A,707469
+PC-Lindsey,All Events,PHO5pr-mCherry-A,37339
+PC-Lindsey,singlets,PHO5pr-mCherry-A,21494
+PC-Lindsey,All Events,FSC-A,1048575
+PC-Lindsey,All Events,FSC-A,1048575
+PC-Lindsey,All Events,chimera-GFP-A,3927
+PC-Lindsey,singlets,chimera-GFP-A,2114
+PC-Lindsey,All Events,chimera-GFP-H,3092
+NC-yH156,cells,FSC-A,705082
+NC-yH156,All Events,FSC-A,1048575
+NC-yH156,singlets,FSC-A,702736
+NC-yH156,All Events,FSC-A,1048575
+NC-yH156,cells,FSC-A,705082
+NC-yH156,All Events,PHO5pr-mCherry-A,63
+NC-yH156,singlets,PHO5pr-mCherry-A,26
+NC-yH156,All Events,FSC-A,1048575
+NC-yH156,All Events,FSC-A,1048575
+NC-yH156,All Events,chimera-GFP-A,1449
+NC-yH156,singlets,chimera-GFP-A,853
+NC-yH156,All Events,chimera-GFP-H,1164
