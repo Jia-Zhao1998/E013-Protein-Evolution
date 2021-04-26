@@ -1,0 +1,58 @@
+---
+title: "README"
+author: "Jia Zhao"
+date: "4/26/2021"
+output: 
+  html_notebook:
+    code_folding:hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# 2021-04-22
+
+## Goal
+Question: Add extra Pi and Adenine rescue the fitness defect seen in pho2 deletion strain?\
+
+This experiment is to test if adding extra Pi and/or adenine could rescue the fitness defect of *pho2* seen in previous spotting assay by comparing chimera Sc(1-224)Cg(381-533) in *pho2* background-A17 and *PHO2* background-B17.
+
+## Materials
+- Strains: A17 colony 1 (*pho2*, yH295 as the parent); B17 colony 1 (*PHO2*, yH296 as the parent)
+- Media: 
+  - No Pi, 1X Pi (7.35 mM, standard), 2X Pi, 3X Pi (Produced by adding KH2PO4)
+  - 1X Adenine (standard, 0.135 mM), 2X, 3X, 4X (Produced by adding Adenine solution)
+- Done in 96 well plates. 
+  - For the plate assignment and raw reading: ![Image](https://raw.githubusercontent.com/Jia-Zhao1998/E013-Protein-Evolution/main/figure/20210422-Pi_Adenine_Plate_Assignment.png)
+- Growth: I picked a colony, dilute it in SC-LEU standard media* and made 1:1, 1:10, and 1:100 dilution in water. Took 5ul dilutent from each and added to desinated wells (5ul dilutent + 200 ul media per well).
+  - * That makes the 'All Pi conditions in 1:1 dilution' is added 7.35 mM * 5/205 = 0.179 mM Pi to the original. I should have used water to make the 1:1 dilution.
+
+ALL DATA SAVED IN RDSS-USER-JIAZHAO-PLATE READER-20210422
+
+## Figures
+
+### Load data
+```{r}
+A17B17_Table <- read.csv(file = 'A17vsB17.csv')
+
+```
+
+### Creat plots
+#### A17
+Score is the plate reader reading by taking the average of three readings of the same plate.
+```{r}
+library(ggplot2)
+
+ggplot(data = A17B17_Table[which(A17B17_Table$Group=='A17'),], aes(x= Pi_fold, y=Score, group=Adenine_fold,color=Adenine_fold))+geom_point(aes(shape= factor(Dilution_factor))) + ggtitle("A17 (pho2 del)-Fitness vs Pi and Adenine level")
+```
+
+#### B17
+Score is the plate reader reading by taking the average of three readings of the same plate.
+```{r}
+# library(ggplot2)
+ggplot(data = A17B17_Table[which(A17B17_Table$Group=='B17'),], aes(x= Pi_fold, y=Score, group=Adenine_fold,color=Adenine_fold))+geom_point(aes(shape= factor(Dilution_factor))) + ggtitle("B17 (PHO2)-Fitness vs Pi and Adenine level")
+```
+## Discussion
+- Adding qdenine does not increase the fitness level of A17 or B17
+- Adding more Pi can slightly increase the fitness for both strains
+- So the current SC media works fine for both A17 and B17
